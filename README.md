@@ -87,4 +87,4 @@ The dashboard provides a **360° view of company sales and operations**, helping
 ---
 
 ### Author  
-**Gautam Yadav** | Data Analyst|Passionate about turning raw data into actionable insights 
+**Gautam Yadav** | Data Analyst | Passionate about turning raw data into actionable insights 
