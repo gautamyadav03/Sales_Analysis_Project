@@ -51,7 +51,7 @@ Northwind (a trading company) wants to understand:
 
 ##  Dashboard Preview
 ### Overview Page
-![Sales Analytics Dashboard](dashboard overview.png)
+![Sales Analytics Dashboard](dashboard%20overview.png)
 
 **Highlights:**
 - Peak Sales of **$129K** in **May 1996**, mainly driven by Beverages  
